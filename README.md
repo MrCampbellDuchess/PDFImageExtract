@@ -1,6 +1,6 @@
 # Purpose
 
-The script will parse a PDF and return and return and images as PNG files
+The script will parse a PDF and return any images as PNG files
 
 ## Limitations
 
